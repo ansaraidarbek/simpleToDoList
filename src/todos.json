@@ -1,0 +1,14 @@
+[
+  {
+      "todo": "Сделать домашку",
+      "completed": false
+  },
+  {
+      "todo": "Уехать жить на Бали",
+      "completed": false
+  },
+  {
+      "todo": "Купить Порше",
+      "completed": false
+  }
+]
